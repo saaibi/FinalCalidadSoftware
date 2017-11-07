@@ -1,0 +1,13 @@
+<suite name="Suite">
+ 
+    <test name="ToolsQA">
+ 
+		<classes>
+ 
+		    <class name="TestNG.TestNG" />
+ 
+		</classes>
+ 
+    </test>
+ 
+</suite>
